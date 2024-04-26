@@ -13,7 +13,7 @@ npm install @asaje/html-to-pdf
 ## Generate pdf from html
 
 ```ts
-import { Pdf } from './pdf';
+import { Pdf } from '@asaje/html-to-pdf';
 
 async function printPdf() {
   const pdf = new Pdf();
