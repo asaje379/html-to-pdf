@@ -5,7 +5,7 @@ HTML to PDF tool built with playwright
 # Installation
 
 ```
-		npm install @asaje/html-to-pdf
+npm install @asaje/html-to-pdf
 ```
 
 # Usage
